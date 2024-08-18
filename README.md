@@ -13,6 +13,8 @@ in various game development projects, I strive to blend creativity with technolo
 - **[Ganjifa Play](#)**: A digital adaptation of the traditional Indian card game Ganjifa, incorporating modern gameplay mechanics.
   ![Card design made by me.](https://github.com/NikhilPachouri/NikhilPachouri/blob/main/4105d6efabbfcaf5b7eea6ac56a9e753.png)
   [![Watch the video](https://img.youtube.com/vi/NF_5OM52L5c/0.jpg)](https://www.youtube.com/watch?v=NF_5OM52L5c)
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NF_5OM52L5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 - **[GTA India Replica](#)**: A project inspired by GTA, featuring a detailed Indian city environment and gameplay elements.
