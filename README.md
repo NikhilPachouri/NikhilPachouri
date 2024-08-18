@@ -11,6 +11,8 @@ in various game development projects, I strive to blend creativity with technolo
 
 ## Projects
 - **[Ganjifa Play](#)**: A digital adaptation of the traditional Indian card game Ganjifa, incorporating modern gameplay mechanics.
+  ![Card design made by me.](https://github.com/NikhilPachouri/NikhilPachouri/blob/main/4105d6efabbfcaf5b7eea6ac56a9e753.png)
+
 - **[GTA India Replica](#)**: A project inspired by GTA, featuring a detailed Indian city environment and gameplay elements.
 - **[Zelda Replica](#)**: A Unity project with intricate level design, player actions, and camera control, using the new Input System and ProBuilder.
 - **[Ping Pong](#)**: A fun and fast-paced ping pong game showcasing dynamic gameplay and physics.
