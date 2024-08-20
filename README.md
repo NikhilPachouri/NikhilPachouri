@@ -18,6 +18,8 @@ in various game development projects, I strive to blend creativity with technolo
   [![Watch the video](https://img.youtube.com/vi/Zs90JCx0l4Q/0.jpg)](https://www.youtube.com/watch?v=Zs90JCx0l4Q)
 - **[Zelda Replica](#)**: A Unity project with intricate level design, player actions, and camera control, using the new Input System and ProBuilder.
 - **[Ping Pong](#)**: A fun and fast-paced ping pong game showcasing dynamic gameplay and physics.
+- ![pingpong.](https://github.com/NikhilPachouri/NikhilPachouri/blob/main/25d53359-ea98-41df-9c59-0e6834184f5b_preview.png)
+- ![start screen](https://github.com/NikhilPachouri/NikhilPachouri/blob/main/b8f6a884-3864-4546-8f17-e197498796dd_Screenshot_1.jpg)
 - **[Snake and Ladders](#)**: A digital version of the classic board game with interactive elements and AI.
 - **[Ludo](#)**: A digital rendition of the popular board game Ludo, featuring smooth gameplay and multiplayer support.
 
