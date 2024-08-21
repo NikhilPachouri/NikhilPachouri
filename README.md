@@ -21,7 +21,7 @@ in various game development projects, I strive to blend creativity with technolo
 - ![pingpong.](https://github.com/NikhilPachouri/NikhilPachouri/blob/main/25d53359-ea98-41df-9c59-0e6834184f5b_preview.png)
 - ![start screen](https://github.com/NikhilPachouri/NikhilPachouri/blob/main/b8f6a884-3864-4546-8f17-e197498796dd_Screenshot_1.jpg)
 - **[Snake and Ladders](#)**: A digital version of the classic board game with interactive elements and AI.
-- **[Ludo](#)**: A digital rendition of the popular board game Ludo, featuring smooth gameplay and multiplayer support.
+- **[Ludo](#)**: A digital rendition of the popular board game Ludo, featuring smooth gameplay and multiplayer support
 
 
 ## Skills
