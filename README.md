@@ -6,7 +6,7 @@ in various game development projects, I strive to blend creativity with technolo
 
 - 🎮 **Currently Working On**: Developing a Unity project featuring advanced game mechanics and design patterns.
 - 🌱 **Learning**: Exploring iterative algorithms and new game design techniques.
-- 📚 **Languages**: C#, Unity,C++
+- 📚 **Languages**: C#, Unity,C++.
   
 
 ## Projects
