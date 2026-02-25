@@ -26,9 +26,8 @@ in various game development projects, I strive to blend creativity with technolo
 
 ## Skills
 - Game Development
-- Unity Engine
-- C# Programming
-- Design Patterns
+- GPU Programming
+- C++,Opengl,vulkan
 - Japanese (N5 Level)
 
 Thanks for checking out my profile! Feel free to explore my repositories and connect with me.
